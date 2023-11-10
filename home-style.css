@@ -1,0 +1,15 @@
+li{
+    display:inline;
+    padding: 25px;
+  }
+  body{
+    background-color:rgb(30, 255, 0);
+    color: rgb(141, 19, 19);
+  }
+  nav{
+    background-color:darkcyan;
+  }
+  .col-md-4{
+    margin:20px;
+    
+  }
